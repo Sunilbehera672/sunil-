@@ -1,2 +1,3 @@
 # sunil-
-This is my third reposetry
+This is my third repository
+author sunil
